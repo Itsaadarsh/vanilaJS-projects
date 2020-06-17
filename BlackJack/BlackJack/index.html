@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>BlackJack</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Krona+One&display=swap" rel="stylesheet">
+  <style media="screen">
+    body {
+      margin: 0;
+      background: url('cards/images/table.png') no-repeat center center/cover;
+      height: 100vh;
+      font-family: 'Krona One', sans-serif;
+    }
+
+    #container {
+      position: relative;
+    }
+
+    #dealHand {
+      position: absolute;
+      top: 0.5vh;
+      left: 0.5rem;
+      color: white;
+    }
+
+    #plyHand {
+      position: absolute;
+      top: 93vh;
+      right: 0.5rem;
+      color: white;
+    }
+
+    #chipCount {
+      position: absolute;
+      top: 90vh;
+      left: 0.5rem;
+      display: flex;
+    }
+
+    #chipCountResult {
+      color: red;
+      font-size: 2.5rem;
+      padding: 1rem;
+    }
+
+    #noChipMsg {
+      color: red;
+      font-size: 1.7rem;
+      text-decoration: underline overline;
+      font-style: italic;
+      padding: 1.5rem 0 1rem 0;
+    }
+
+    #BJlogo {
+      position: absolute;
+      right: 0;
+    }
+
+    #dealBtn button,
+    #standBtn button {
+      color: white;
+      padding: 2rem 4rem;
+      border-radius: 5rem;
+    }
+
+    #hitBtn button {
+      padding: 2rem 7.5rem;
+      border-radius: 5rem;
+    }
+
+    #dealBtn {
+      position: absolute;
+      top: 40vh;
+      left: 5vh;
+    }
+
+    #hitBtn {
+      position: absolute;
+      top: 25vh;
+      right: 5vh;
+    }
+
+    #standBtn {
+      position: absolute;
+      top: 55vh;
+      right: 5vh;
+    }
+
+    #dealerCards {
+      position: absolute;
+      top: 30vh;
+      left: 40vh;
+      display: flex;
+      width: 70rem;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .Cards img {
+      height: 180px;
+      width: 180px;
+      padding-right: 2rem;
+    }
+
+    #plyCards {
+      position: absolute;
+      top: 70vh;
+      left: 40vh;
+      display: flex;
+      width: 70rem;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    #bust {
+      position: absolute;
+      top: 55vh;
+      left: 60vh;
+      width: 70vh;
+
+    }
+
+    #plybust,
+    #dealbust,
+    #dealwin,
+    #plywin,
+    #drawID {
+      color: white;
+      border: 0.5vh red solid;
+      font-size: 7vh;
+      text-align: center;
+    }
+
+    #dev{
+      position: absolute;
+      top: 0.5rem;
+      right: 22vh;
+      color: white;
+      text-decoration: underline;
+    }
+
+    .devName {
+      font-weight: bold;
+      font-size: 2rem;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="container">
+    <div id="dealHand">
+      <h2 style="font-size:2.5rem;">DEALER'S HAND : <span id="dealHandResult" style="color:red; text-decoration:underline;">0</span></h2>
+    </div>
+    <div id="plyHand">
+      <h2 style="font-size:2.5rem;">PLAYER'S HAND : <span id="plyHandResult" style="color:red; text-decoration:underline;">0</span></h2>
+    </div>
+    <div id="chipCount">
+      <img src="cards/images/chips.png" width="100px">
+      <span id="chipCountResult">$500</span>
+      <span id="noChipMsg"></span>
+    </div>
+    <div id="BJlogo">
+      <img src="cards/images/bjLogo.png" width="150px">
+    </div>
+  </div>
+  <div id="dealBtn">
+    <button type="button" class="btn btn-success" id="dealbutton"><b style="font-size:50px">DEAL</b></button>
+  </div>
+  <div id="hitBtn">
+    <button type="button" class="btn btn-dark" id="hitbutton"><b style="font-size:50px">HIT</b></button>
+  </div>
+  <div id="standBtn">
+    <button type="button" class="btn btn-danger" id="standbutton"><b style="font-size:50px">STAND</b></button>
+  </div>
+  <div id="dealerCards" class="Cards"></div>
+  <div id="plyCards" class="Cards"></div>
+  <div id="bust"></div>
+  <div id="dev">
+    <h1 class="devName">Developer : <a href="https://www.instagram.com/itsaadarsh/" target="_blank" style="color:red">@itsaadarsh</a></h1>
+  </div>
+  <script src="app.js" defer></script>
+</body>
+
+</html>
