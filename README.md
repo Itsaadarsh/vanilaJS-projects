@@ -1,12 +1,12 @@
 # Entry Level Java Script Projects!  
-# AGE EXPANDER!  
+# 1) AGE EXPANDER!  
 ![](img/ae.png)  
-# ANIMAL GALLERY!
+# 2) ANIMAL GALLERY!
 ![](img/ag.png)
-# ROCK PAPER SCISSORS!  
+# 3) ROCK PAPER SCISSORS!  
 ![](img/rps.png)  
-# BLACKJACK!
-![](img/bj.png)  
+# 4) BLACKJACK!
+![](img/bj.png)      
 # THANKYOU
 # SUPPORT AND FEEDBACKS
 INSTAGRAM - @itsaadarsh  
