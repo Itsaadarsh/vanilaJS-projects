@@ -1,4 +1,4 @@
-# Entry Level Java Script Projects  
+# Entry Level Java Script Projects!  
 # AGE EXPANDER!  
 ![](img/ae.png)  
 # ANIMAL GALLERY!
@@ -7,3 +7,7 @@
 ![](img/rps.png)  
 # BLACKJACK!
 ![](img/bj.png)  
+# THANKYOU
+# SUPPORT AND FEEDBACKS
+INSTAGRAM - @itsaadarsh
+EMAIL - aadarsh.s2019@vitbhopal.ac.in / saadarsh362@gmail.com
