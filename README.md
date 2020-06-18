@@ -9,5 +9,5 @@
 ![](img/bj.png)  
 # THANKYOU
 # SUPPORT AND FEEDBACKS
-INSTAGRAM - @itsaadarsh
+INSTAGRAM - @itsaadarsh  
 EMAIL - aadarsh.s2019@vitbhopal.ac.in / saadarsh362@gmail.com
