@@ -125,32 +125,37 @@ function refresh() {
     doubleChips = (bet * 2) + debitChips;
     document.querySelector('#chipCountResult').innerHTML = "$" + doubleChips;
     debitChips = doubleChips;
+    document.querySelector('#dealbutton').disabled = false;
   } else if (dealSum > plySum) {
     document.querySelector('#dealwin').remove();
     removeImg();
+    document.querySelector('#dealbutton').disabled = false;
   } else if (plySum > 21) {
     document.querySelector('#plybust').remove();
     removeImg();
+    document.querySelector('#dealbutton').disabled = false;
   } else if (dealSum < plySum) {
     document.querySelector('#plywin').remove();
     removeImg();
     doubleChips = (bet * 2) + debitChips;
     document.querySelector('#chipCountResult').innerHTML = "$" + doubleChips;
     debitChips = doubleChips;
+    document.querySelector('#dealbutton').disabled = false;
   } else if (dealSum === plySum) {
     document.querySelector('#drawID').remove();
     removeImg();
     doubleChips = bet + debitChips;
     document.querySelector('#chipCountResult').innerHTML = "$" + doubleChips;
     debitChips = doubleChips;
+    document.querySelector('#dealbutton').disabled = false;
   }
   if (debitChips === 0) {
     document.querySelector('#noChipMsg').innerHTML = "<== YOU GAMBLED IT ALL AWAY || RELOAD TO START OVER ||"
+    document.querySelector('#dealbutton').disabled = true;
   }
   bet = 0;
   plySum = 0;
   dealSum = 0;
-  document.querySelector('#dealbutton').disabled = false;
   document.querySelector('#plyHandResult').innerHTML = plySum;
   document.querySelector('#dealHandResult').innerHTML = dealSum;
 }
