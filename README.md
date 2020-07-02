@@ -8,7 +8,7 @@
 # 4) BLACKJACK!
 ![](img/bj.png) 
 # 5) LIBRARY BOOK LOG!
-![](img/liblog.jpg) 
+![](img/liblog.JPG) 
 # THANKYOU
 # SUPPORT AND FEEDBACKS
 INSTAGRAM - @itsaadarsh  
