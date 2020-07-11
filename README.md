@@ -12,6 +12,6 @@
 # THANKYOU
 # SUPPORT AND FEEDBACKS
 [LinkedIN](www.linkedin.com/in/itsaadarsh/ "Linkedin")  
-[Twitter](www.twitter.com/itsaadarsh_ "Twitter")
+[Twitter](www.twitter.com/itsaadarsh_ "Twitter")  
 [Instagram](www.instagram.com/itsaadarsh/ "@itsaadarsh")  
-EMAIL - aadarsh-s@outlook.com
+aadarsh-s@outlook.com
