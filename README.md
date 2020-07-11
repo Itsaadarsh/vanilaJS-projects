@@ -11,5 +11,7 @@
 ![](img/liblog.JPG) 
 # THANKYOU
 # SUPPORT AND FEEDBACKS
-INSTAGRAM - @itsaadarsh  
-EMAIL - aadarsh.s2019@vitbhopal.ac.in / saadarsh362@gmail.com
+LinkedIN - www.linkedin.com/in/itsaadarsh/
+Twitter - twitter.com/itsaadarsh_
+IG - @itsaadarsh  
+EMAIL - aadarsh-s@outlook.com / saadarsh362@gmail.com
