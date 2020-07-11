@@ -1,5 +1,5 @@
 # Vanila.js Projects!  
-* AGE EXPANDER!  
+* **AGE EXPANDER!**  
 ![](img/ae.png)  
 # * ANIMAL GALLERY!
 ![](img/ag.png)
