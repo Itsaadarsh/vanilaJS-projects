@@ -1,4 +1,4 @@
-# Entry Level Java Script Projects!  
+# Entry Level Vanila.js Projects!  
 # 1) AGE EXPANDER!  
 ![](img/ae.png)  
 # 2) ANIMAL GALLERY!
