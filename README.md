@@ -1,5 +1,5 @@
 # Vanila.js Projects!  
-* **AGE EXPANDER!**  
+* # **AGE EXPANDER!**  
 ![](img/ae.png)  
 * **ANIMAL GALLERY!**  
 ![](img/ag.png)
@@ -8,7 +8,7 @@
 * **BLACKJACK!**  
 ![](img/bj.png) 
 * **LIBRARY LOG MANAGEMENT**  
-![](img/liblog.JPG) 
+![](img/liblog.JPG)  
 # SUPPORT AND FEEDBACKS
 [LinkedIN](www.linkedin.com/in/itsaadarsh/ "Linkedin")  
 [Twitter](www.twitter.com/itsaadarsh_ "Twitter")  
