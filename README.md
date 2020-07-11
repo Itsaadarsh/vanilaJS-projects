@@ -1,13 +1,13 @@
 # Vanila.js Projects!  
 * # **AGE EXPANDER!**  
 ![](img/ae.png)  
-* **ANIMAL GALLERY!**  
+* # **ANIMAL GALLERY!**  
 ![](img/ag.png)
-* **ROCK PAPER SCISSORS!**  
+* # **ROCK PAPER SCISSORS!**  
 ![](img/rps.png)  
-* **BLACKJACK!**  
+* # **BLACKJACK!**  
 ![](img/bj.png) 
-* **LIBRARY LOG MANAGEMENT**  
+* # **LIBRARY LOG MANAGEMENT**  
 ![](img/liblog.JPG)  
 # SUPPORT AND FEEDBACKS
 [LinkedIN](www.linkedin.com/in/itsaadarsh/ "Linkedin")  
