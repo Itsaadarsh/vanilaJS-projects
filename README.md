@@ -11,7 +11,7 @@
 ![](img/liblog.JPG) 
 # THANKYOU
 # SUPPORT AND FEEDBACKS
-LinkedIN - www.linkedin.com/in/itsaadarsh/
-Twitter - twitter.com/itsaadarsh_
+[LinkedIN](www.linkedin.com/in/itsaadarsh/)  
+Twitter - www.twitter.com/itsaadarsh_
 IG - @itsaadarsh  
 EMAIL - aadarsh-s@outlook.com / saadarsh362@gmail.com
